@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 Hello new git.
 Hello again.
+=======
+Hello newgit.
+
+>>>>>>> bb0d0a6c137d8ecc2b076fbdde7b9b0e7a1ffa59
